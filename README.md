@@ -2,7 +2,7 @@
 github workshop on day1 work in KITS...
 ## basic Linux Comments
 - pwd
-- cd
+- cd path
 - ls
 - ls -a
 - mkdir foldername 
